@@ -81,7 +81,7 @@ A web application similar to the official [npmjs.com](https://www.npmjs.com) web
 1. **Clone the repository**:
 
     ```bash
-    https://github.com/olaide-hok/registry.git
+    https://github.com/olaide-hok/Registry.git
     ```
 
 2. **Install dependencies**:
